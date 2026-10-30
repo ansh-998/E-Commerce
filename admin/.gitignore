@@ -1,0 +1,16 @@
+# Sub-project rules (kept so this app can be deployed/cloned on its own;
+# the repo-root .gitignore is the source of truth for the monorepo).
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+.vercel/
+*.log
+
+.env
+.env.*
+!.env.example
+
+.DS_Store

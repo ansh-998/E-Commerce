@@ -1,0 +1,21 @@
+{
+  "name": "forever-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multi-vendor e-commerce platform: Express API, Next.js storefront and Next.js admin panel",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install && npm --prefix admin install",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:admin": "npm --prefix admin run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:admin": "npm --prefix admin run build",
+    "build:all": "npm --prefix frontend run build && npm --prefix admin run build",
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend run start",
+    "start:admin": "npm --prefix admin run start"
+  }
+}

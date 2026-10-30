@@ -1,0 +1,7 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "main": "tokens.js",
+  "style": "tokens.css",
+  "private": true
+}
