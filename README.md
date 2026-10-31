@@ -11,17 +11,6 @@ Forever is a full-stack, multi-vendor e-commerce platform made of three apps: a 
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
----
-
-## 🌐 Live Demo
-
-| App | URL |
-| --- | --- |
-| 🛒 Storefront | https://forever-frontend-two-azure.vercel.app |
-| 🛠 Admin Panel | https://forever-admin-tau-mauve.vercel.app |
-| ⚙️ REST API | https://forever-backend-psi-nine.vercel.app |
-
----
 
 ## 🚀 Features
 
